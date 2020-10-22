@@ -1,0 +1,27 @@
+{
+  "name": "scs",
+  "version": "1.0.0",
+  "description": "SCS Discord bot --> Development",
+  "main": "index.js",
+  "dependencies": {
+    "discord-giveaways": "^4.2.1",
+    "discord.js": "^11.6.3",
+    "js-yaml": "^3.14.0",
+    "moment": "^2.27.0",
+    "nodemon": "^2.0.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "/help",
+    "start": "nodemon"
+  },
+  "repository": {
+    "type": "git",
+    "url": "none"
+  },
+  "keywords": [
+    "SCS"
+  ],
+  "author": "Sundeep de Jongh",
+  "license": "ISC"
+}
